@@ -2068,7 +2068,30 @@ select {
     font-size: 8px;
     letter-spacing: 1.5px;
 }
+/* Experience Company & Duration */
 
+.experience-meta {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 8px;
+    font-size: 11px;
+}
+
+.experience-company {
+    color: #111111;
+    font-weight: 500;
+}
+
+.experience-divider {
+    color: #999999;
+}
+
+.experience-duration {
+    color: #888888;
+    font-weight: 400;
+}
 
 
 /* ==================================================
